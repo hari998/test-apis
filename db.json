@@ -1,11 +1,25 @@
 {
-  "posts": [
+  "arr-of-objs": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "latest2"
+    },
+    {
+      "id": 2,
+      "title": "latest1"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "obj": {
+    "name": "hari",
+    "title": "latest",
+    "subjects": {
+      "english":5,
+      "maths":4
+    },
+    fav: ["books", "art"]
   }
+    "arr": [ "hari", "geek" ],
+  "empty-arr": [],
+  "empty-obj: {},
+  
 }
