@@ -8,17 +8,5 @@
       "id": 2,
       "title": "latest1"
     }
-  ],
-  "obj": {
-    "name": "hari",
-    "title": "latest",
-    "subjects": {
-      "english":5,
-      "maths":4
-    },
-    "fav": ["books", "art"]
-  }
-   "arr": [ "hari", "geek" ],
-  "empty-arr": [],
-  "empty-obj": {}
+  ]
 }
