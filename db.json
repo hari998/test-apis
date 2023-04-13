@@ -16,10 +16,9 @@
       "english":5,
       "maths":4
     },
-    fav: ["books", "art"]
+    "fav": ["books", "art"]
   }
-    "arr": [ "hari", "geek" ],
+   "arr": [ "hari", "geek" ],
   "empty-arr": [],
-  "empty-obj: {},
-  
+  "empty-obj: {}
 }
