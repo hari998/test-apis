@@ -1,30 +1,21 @@
 {
-    "arrofobjs": [
-        {
-            "id": 1,
-            "title": "latest2"
-        },
-        {
-            "id": 2,
-            "title": "latest1"
-        }
-    ],
-    "obj": {
-        "name": "hari",
-        "title": "latest",
-        "subjects": {
-            "english": 5,
-            "maths": 4
-        },
-        "fav": [
-            "books",
-            "art"
-        ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
     },
-   "arr": [
-        "hari",
-        "geek"
-    ],
-    "empty-arr": [],
-    "empty-obj": {}
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [],
+  "emptyobj": {},
+  "profile": {
+    "name": "typicode"
+  }
 }
