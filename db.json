@@ -1,11 +1,11 @@
 {
-  "post": [
+  "x": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "y": {
     "name": "typicode"
   }
 }
