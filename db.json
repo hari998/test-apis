@@ -1,12 +1,30 @@
 {
-  "arrofobjs": [
-    {
-      "id": 1,
-      "title": "latest2"
+    "arrofobjs": [
+        {
+            "id": 1,
+            "title": "latest2"
+        },
+        {
+            "id": 2,
+            "title": "latest1"
+        }
+    ],
+    "obj": {
+        "name": "hari",
+        "title": "latest",
+        "subjects": {
+            "english": 5,
+            "maths": 4
+        },
+        "fav": [
+            "books",
+            "art"
+        ]
     },
-    {
-      "id": 2,
-      "title": "latest1"
-    }
-  ]
+   "arr": [
+        "hari",
+        "geek"
+    ],
+    "empty-arr": [],
+    "empty-obj": {}
 }
